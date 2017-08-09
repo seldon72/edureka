@@ -1,2 +1,4 @@
 Test file 1
+File not change in reset
+Change for merge
 
