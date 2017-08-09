@@ -1,4 +1,7 @@
 Test file 2
+<<<<<<< HEAD
 Reset
 Adding changes
+=======
+>>>>>>> 3c5401f79952104c8f2672f66de995e4fae9a3c6
 
